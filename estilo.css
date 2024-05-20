@@ -1,0 +1,206 @@
+.mainnave{
+    width: 100%;
+    height: 101px;
+    background: #0F52BA;
+
+}
+.main-content{
+    width: 100%;
+    height: 50%;
+    background: 100%;
+}
+
+.logo{
+
+    color: #ffffff;
+    width: 128px;
+    height: 44px;
+    top: 20px;
+    left: 70px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 19px;
+    text-align: left;
+
+
+}
+.rodacontent{
+    width: 270px;
+    height: 17px;
+    top: 998px;
+    left: 608px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.63px;
+    text-align: left;
+    background: #000000;
+    ;
+
+
+}
+.rodape{
+    width: 100%;
+    height: 34px;
+    top: 100%;
+    margin-top: 5%;
+    gap: 0px;
+    opacity: 0px;
+    background: #EEEEEE;
+    text-align: center;
+
+
+}
+.buton{
+    width: 90px;
+    height: 45px;
+    top: 2%;
+    left: 80px;
+    right: 50px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    margin-left: 88%;
+
+}
+.corpo{
+    width: 100%;
+    height: 100%;    
+}
+.corpo2{
+    width: 100%;
+    height: 100%;
+    
+}
+.bloco1{
+    width: 100%;
+    height: 50%;
+    top: 217px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex ;
+
+}
+.bloco2{
+    width: 100%;
+    height: 50%;
+    top: 217px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex ;   
+}
+
+.produto1{
+    width: 218px;
+    height: 285px;
+    top: 217px;
+    left: 247px;
+    margin: auto;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.produto2{
+    width: 218px;
+    height: 285px;
+    top: 217px;
+    left: 487px;
+    margin: auto;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.produto3{
+    width: 218px;
+    height: 285px;
+    top: 217px;
+    left: 727px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+
+}
+.produto4{
+    width: 218px;
+    height: 285px;
+    top: 217px;
+    left: 100%;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+
+}
+.produto5{
+    width: 218px;
+    height: 285px;
+    top: 533px;
+    left: 247px;
+    margin-left: 20%;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+    
+}
+.produto6{
+    width: 218px;
+    height: 285px;
+    top: 533px;
+    left: 487px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+
+}
+.produto7{
+    width: 218px;
+    height: 285px;
+    top: 533px;
+    left: 727px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+       
+}
+.produto8{
+    width: 218px;
+    height: 285px;
+    top: 533px;
+    left: 967px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+       
+}
+.produtos{
+    width: 50%;
+    height: 50%;
+    top: 217px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+    float: none;
+    
+    
+    
+    
+    
+    
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: #0F52BA;
+    
+    
+          
+}
+
+.imgcompra{
+    margin-left: 50%;
+}
+
